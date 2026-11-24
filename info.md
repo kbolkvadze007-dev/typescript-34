@@ -5,4 +5,4 @@
 * **ჩემი როლი გუნდში:** სტუდენტი 1 — სესხებისა და იპოთეკის მოდული (Loans Module)
 * **GitHub რეპოზიტორის ლინკი:** [(https://github.com/kbolkvadze007-dev/typescript-34)]
 * **ჩემი ინდივიდუალური Branch (მტო):** feature/loans-module
-* **ჩემი ბოლო Commit-ის ჰეში (Hash):** [ჩასვით თქვენი ბოლო commit-ის უნიკალური ჰეში]
+* **ჩემი ბოლო Commit-ის ჰეში (Hash):** [82501bdd67256b8c6782d9cd6ab62dd264938e85]
