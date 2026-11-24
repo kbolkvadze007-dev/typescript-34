@@ -1,0 +1,14 @@
+{
+  "name": "loans-module-oop",
+  "version": "1.0.0",
+  "description": "სესხებისა და იპოთეკის მოდული (OOP & TypeScript) - სტუდენტი 1",
+  "main": "dist/loansModule.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/loansModule.js",
+    "start": "tsc && node dist/loansModule.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
